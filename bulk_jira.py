@@ -2,6 +2,8 @@
 import csv
 file = open("user_stories.csv")
 
+## Testing the commit process
+
 ## Grab intake file
 
 ## Grab config file 
